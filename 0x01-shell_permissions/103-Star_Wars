@@ -1,3 +1,2 @@
-first install telnet in the shell with this command: sudo apt-get install telnet
-next enter this code in the vi: #!/bin/bash
+first install telnet in the shell with this command: sudo apt-get install telnet .... next enter this code in the vi: #!/bin/bash 
 telnet towel.blinkenlights.nl
